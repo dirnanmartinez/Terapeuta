@@ -1,0 +1,4 @@
+# 2Gether4Practitioner
+ 
+ APP PARA TERMINAR DE CREAR LAS ACTIVIDADES
+ 
